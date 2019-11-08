@@ -1,0 +1,1 @@
+A code learning practice test of a mock-up of Google homepage.

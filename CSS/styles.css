@@ -1,0 +1,52 @@
+img {
+  display: block;
+  padding-top: 200px;
+  margin-left: auto;
+  margin-right:auto;
+  width: 300px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+li{
+  display:inline-block;
+  font-size: 12px;
+}
+
+.searchbar{
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  padding-top: 50px;
+  border-radius: 50%;
+}
+
+button{
+  display: inline;
+  width: 200px;
+  -moz-appearance: 
+}
+
+#button{
+  text-align: center;
+  padding-top: 20px;
+}
+
+p{
+  text-align: center;
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
